@@ -1,0 +1,152 @@
+export const russian = {
+  "New card": "Новая карточка",
+  "Edit card": "Редактирование карточки",
+  "New column": "Новая колонка",
+  "Rename column": "Переименование колонки",
+  "No results": "Нет совпадений",
+  "No cards": "Нет карточек",
+  "No columns": "Нет колонок",
+  "Author on GitHub": "Автор на GitHub",
+  Kanban: "Канбан",
+  "Skip to board": "Перейти к доске",
+  "Kanban Press home": "Канбан Пресс — главная",
+  "A WORKSPACE FOR WORK IN PROGRESS": "МАСТЕРСКАЯ НЕЗАКОНЧЕННЫХ ДЕЛ",
+  "LOCAL FIRST / EDITION 001": "ВСЁ В БРАУЗЕРЕ / ВЫПУСК 001",
+  "LESS FUSS.": "МЕНЬШЕ ШУМА.",
+  "MORE DONE.": "БОЛЬШЕ ДЕЛА.",
+  "THE DAILY BOARD": "ДОСКА НА КАЖДЫЙ ДЕНЬ",
+  "Good work.": "Есть дело.",
+  "In the making.": "За работу.",
+  "cards on the table.": "карточек на доске.",
+  "One thing at a time.": "Всему свой черёд.",
+  "card on the table.": "карточка на доске.",
+  "a few cards on the table.": "карточки на доске.",
+  "Sortable item": "Перемещаемый элемент",
+  "Search cards": "Поиск карточек",
+  "Find a loose end…": "Найти задачу…",
+  "Filter by label": "Фильтр по метке",
+  "All labels": "Все метки",
+  "No label": "Без метки",
+  Priority: "Приоритет",
+  Build: "Разработка",
+  Idea: "Идея",
+  "Export board as JSON": "Экспортировать доску в JSON",
+  Export: "Экспорт",
+  "Import board from JSON": "Импортировать доску из JSON",
+  Import: "Импорт",
+  "Switch to dark theme": "Включить тёмную тему",
+  "Switch to light theme": "Включить светлую тему",
+  "Add column": "Добавить колонку",
+  Column: "Колонка",
+  "Choose a board JSON file": "Выбрать JSON-файл доски",
+  "Dismiss notification": "Закрыть уведомление",
+  Dismiss: "Закрыть",
+  COLUMNS: "КОЛОНОК",
+  CARDS: "КАРТОЧЕК",
+  "Drag handles: Space to pick up · Arrows to move · Space to drop · Esc to cancel":
+    "На ручке переноса: пробел — взять · стрелки — переместить · пробел — отпустить · Esc — отменить",
+  "Give it a better name.": "Найдём точное название.",
+  "Make room for a new stage.": "Ещё один этап работы.",
+  "Column name": "Название колонки",
+  Cancel: "Отмена",
+  "Save column": "Сохранить колонку",
+  "Keep current": "Оставить как есть",
+  "Close dialog": "Закрыть окно",
+  "Fine-tune the details.": "Всё дело в деталях.",
+  "Put it on the board.": "Запишем на доску.",
+  Title: "Заголовок",
+  Description: "Описание",
+  Label: "Метка",
+  Deadline: "Срок",
+  "What needs to happen?": "Что нужно сделать?",
+  "The useful details, loose ends, and bright ideas.":
+    "Детали, вопросы и идеи, которые пригодятся.",
+  "Save changes": "Сохранить",
+  "Add card": "Добавить карточку",
+  "Add a card": "Добавить карточку",
+  Overdue: "Срок прошёл",
+  Rename: "Переименовать",
+  "Nothing fits this lens.": "Здесь совпадений нет.",
+  "Room for the next good thing.": "Место для следующего дела.",
+  "Try a different search or label.": "Измените запрос или метку.",
+  "Drop a card. Make a start.": "Перенесите карточку. Начнём.",
+  "Kanban columns": "Колонки канбан-доски",
+  "A clean sheet.": "Чистый лист.",
+  "Add your first column. The rest is yours.":
+    "Добавьте первую колонку. Дальше — ваш ход.",
+  "IN TRANSIT": "В ПУТИ",
+  item: "элемент",
+  "Move card: {title}": "Переместить карточку: {title}",
+  "Edit card: {title}": "Редактировать карточку: {title}",
+  "Delete card: {title}": "Удалить карточку: {title}",
+  "Move column: {title}": "Переместить колонку: {title}",
+  "Rename {title}": "Переименовать: {title}",
+  "Delete column: {title}": "Удалить колонку: {title}",
+  "Add card to {title}": "Добавить карточку в колонку: {title}",
+  "{count} cards": "Карточек: {count}",
+  "Picked up {title}. Use arrow keys to move, space to drop, Escape to cancel.":
+    "Выбран элемент «{title}». Стрелки — переместить, пробел — отпустить, Escape — отменить.",
+  "Over {title}.": "Над элементом «{title}».",
+  "Outside a drop area.": "За пределами области переноса.",
+  "Dropped {title} at {target}.": "Элемент «{title}» перемещён к «{target}».",
+  "Move cancelled.": "Перемещение отменено.",
+  "To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.":
+    "Чтобы взять элемент, нажмите пробел. Перемещайте его стрелками. Нажмите пробел ещё раз, чтобы отпустить, или Escape, чтобы отменить перенос.",
+  "Saved data could not be read. Export your board before closing; automatic saving is paused.":
+    "Не удалось прочитать сохранённую доску. Экспортируйте её перед закрытием: автоматическое сохранение приостановлено.",
+  "Browser storage is full or unavailable. Export JSON to keep your changes.":
+    "Хранилище браузера заполнено или недоступно. Экспортируйте JSON, чтобы сохранить изменения.",
+  "Theme changed for this session; browser storage is unavailable.":
+    "Тема изменена до закрытия страницы: хранилище браузера недоступно.",
+  "The board limit is 100 columns.":
+    "На доске может быть не более 100 колонок.",
+  "The board limit is 5,000 cards.":
+    "На доске может быть не более 5 000 карточек.",
+  "JSON export downloaded.": "JSON-файл доски скачан.",
+  "Board imported.": "Доска импортирована.",
+  "Choose a JSON file smaller than 5 MB.":
+    "Выберите JSON-файл размером не более 5 МБ.",
+  "Use a Kanban Press version 1 export (up to 100 columns).":
+    "Нужен экспорт Kanban Press версии 1, содержащий не более 100 колонок.",
+  "A column has an invalid name, ID, or card list.":
+    "У колонки некорректное название, идентификатор или список карточек.",
+  "A card has invalid fields, a duplicate ID, or an invalid date.":
+    "У карточки некорректные поля, повторяющийся идентификатор или неверная дата.",
+  "This file is not valid JSON.": "Этот файл не является корректным JSON.",
+  "Could not read this file.": "Не удалось прочитать файл.",
+  "Import failed.": "Импорт не выполнен.",
+  "Give this card a title.": "Введите заголовок карточки.",
+  "Choose a valid deadline.": "Укажите корректную дату.",
+  "Replace the current board?": "Заменить текущую доску?",
+  "Import {columns} columns and {cards} cards. Export the current board first if you want to keep it.":
+    "Будет импортировано колонок: {columns}, карточек: {cards}. Чтобы сохранить текущую доску, сначала экспортируйте её.",
+  "Replace board": "Заменить доску",
+  Delete: "Удалить",
+  "Delete this column?": "Удалить колонку?",
+  "Delete this card?": "Удалить карточку?",
+  "“{title}” and its {count} cards will be removed permanently.":
+    "Колонка «{title}» и все её карточки ({count}) будут удалены безвозвратно.",
+  "“{title}” will be removed permanently.":
+    "Карточка «{title}» будет удалена безвозвратно.",
+  "Kanban Press — a small, sharp workspace for things worth making.":
+    "Канбан Пресс — доска для дел, которым стоит уделить время.",
+  "On the radar": "В планах",
+  "On the bench": "В работе",
+  "Out the door": "Готово",
+  "Make something worth shipping": "Сделать то, чем хочется поделиться",
+  "Start small. Name the next useful thing, then move it forward.":
+    "Начните с малого. Назовите следующее полезное дело и сделайте первый шаг.",
+  "A corner for the wild ideas": "Уголок смелых идей",
+  "Keep the rough sketches. One of them might be the whole point.":
+    "Сохраняйте наброски. Один из них может оказаться самым важным.",
+  "Give the details some attention": "Уделить внимание деталям",
+  "Focus states, empty states, and the last five percent.":
+    "Фокус, пустые состояния и последние пять процентов работы.",
+};
+
+export function translate(language, key, values = {}) {
+  const message = language === "ru" ? (russian[key] ?? key) : key;
+  return message.replace(/\{(\w+)\}/g, (match, name) =>
+    String(values[name] ?? match),
+  );
+}
